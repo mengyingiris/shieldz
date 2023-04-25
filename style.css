@@ -308,7 +308,7 @@ footer ul li a:hover {
 }
 
 
-@media only screen and (max-width: 414px)  {
+@media only screen and (max-width: 600px)  {
 
   .s1{
     background-image: url("bg3.jpg"); /* Set the background image */
